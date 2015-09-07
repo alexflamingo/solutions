@@ -3,6 +3,7 @@ package customlib;
 import java.util.Arrays;
 
 /**
+ * Prepare input test data
  * Created by alexshi on 9/5/15.
  */
 public class PrepData {
