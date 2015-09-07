@@ -5,6 +5,8 @@ import customlib.PrepData;
 import customlib.Printer;
 
 /**
+ * Reverse a singly linked list nodes in pairs. For example: 1->2->3->4->5 should return 2->1->4->3->5
+ * Time: O(n) Space: const
  * Created by alexshi on 9/4/15.
  */
 public class ReverseListNodesInPairs {

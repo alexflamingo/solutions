@@ -5,6 +5,8 @@ import customlib.Printer;
 import customlib.TreeNode;
 
 /**
+ * Delete a node from Binary Search Tree
+ * Time: O(logn) Space: const
  * Created by alexshi on 9/4/15.
  */
 public class DeleteNodeFromBST {

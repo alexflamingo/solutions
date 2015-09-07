@@ -4,6 +4,8 @@ import customlib.PrepData;
 import customlib.Printer;
 
 /**
+ * Given a sorted array and an integer K, find any pair of two elements whose sum is closet to K
+ * Time: O(n) Space: const
  * Created by alexshi on 9/6/15.
  */
 public class SortedArrayTwoSumCloset {

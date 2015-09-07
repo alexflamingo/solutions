@@ -4,6 +4,8 @@ import customlib.PrepData;
 import customlib.Printer;
 
 /**
+ * Find two elements in a sorted array that sum to K
+ * TIme: O(n) Space: const
  * Created by alexshi on 9/6/15.
  */
 public class SortedArrayTwoSum {
